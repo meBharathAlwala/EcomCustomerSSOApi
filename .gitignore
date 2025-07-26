@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/EcomCustomer
+/.vs/ProjectEvaluation
+/EcomCustomer/obj/Debug/net8.0/EcomCustomer.AssemblyInfo.cs
+/EcomCustomer/obj/Debug/net8.0/EcomCustomer.AssemblyInfoInputs.cache
+/EcomCustomer/obj/Debug/net8.0/EcomCustomer.assets.cache
+/EcomCustomer/obj/Debug/net8.0/EcomCustomer.GeneratedMSBuildEditorConfig.editorconfig
+/EcomCustomer/obj/Debug/net8.0/rpswa.dswa.cache.json
+/EcomCustomer/obj/EcomCustomer.csproj.nuget.dgspec.json
+/EcomCustomer/obj/project.assets.json
+/EcomCustomer/obj/project.nuget.cache
